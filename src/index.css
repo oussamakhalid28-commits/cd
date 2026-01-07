@@ -1,0 +1,4 @@
+:root{--bg:#fff;--text:#0b1220}
+body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial;background:var(--bg);color:var(--text);padding:20px}
+.app header h1{margin:0 0 8px}
+.app main{margin-top:12px}
